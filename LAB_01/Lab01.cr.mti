@@ -1,0 +1,33 @@
+D:/Desktop/COAL/LAB_01/task04.v {1 {vlog -work work -stats=none D:/Desktop/COAL/LAB_01/task04.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task04
+-- Compiling module testbench_dataflow
+
+Top level modules:
+	testbench_dataflow
+
+} {} {}} D:/Desktop/COAL/LAB_01/task01.v {1 {vlog -work work -stats=none D:/Desktop/COAL/LAB_01/task01.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task01
+-- Compiling module testbench_XNOR
+
+Top level modules:
+	testbench_XNOR
+
+} {} {}} D:/Desktop/COAL/LAB_01/task06.v {1 {vlog -work work -stats=none D:/Desktop/COAL/LAB_01/task06.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task06
+-- Compiling module testbench02
+
+Top level modules:
+	testbench02
+
+} {} {}} D:/Desktop/COAL/LAB_01/task02.v {1 {vlog -work work -stats=none D:/Desktop/COAL/LAB_01/task02.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module task02
+-- Compiling module testbench_XNOR
+
+Top level modules:
+	testbench_XNOR
+
+} {} {}}
