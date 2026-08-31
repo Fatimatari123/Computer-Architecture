@@ -22,7 +22,7 @@ end
 endmodule
 */
 
-module task06(a,b,c,d,w,x,y,z);
+/*module task06(a,b,c,d,w,x,y,z);
 input a,b,c,d;
 output w,x,y,z;
 assign w = ~a;
@@ -44,3 +44,4 @@ a=0; b=0; c=0; d=0;
 #50 a=1; b=1; c=1; d=1;
 end
 endmodule
+*/

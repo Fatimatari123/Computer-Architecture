@@ -120,7 +120,7 @@ end
 endmodule
 */
 
-module task01(a,b,c);
+/*module task01(a,b,c);
 input a;
 input b;
 output c;
@@ -139,3 +139,4 @@ x=0; y=0;
 #50 x=1; y=1;
 end
 endmodule
+*/

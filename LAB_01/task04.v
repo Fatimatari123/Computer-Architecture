@@ -27,7 +27,7 @@ end
 endmodule
 */
 
-module task04(A, B, Z);
+/*module task04(A, B, Z);
 input A;
 input B;
 output Z;
@@ -46,3 +46,4 @@ x = 0; y = 0;
 #50 x = 1; y = 1;
 end
 endmodule
+*/
