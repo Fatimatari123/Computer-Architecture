@@ -34,7 +34,7 @@ end
 endmodule
 */
 
-module task02(a,b,c,D0,D1,D2,D3,D4,D5,D6,D7);
+/*module task02(a,b,c,D0,D1,D2,D3,D4,D5,D6,D7);
 input a,b,c;
 output D0,D1,D2,D3,D4,D5,D6,D7;
 wire anot,bnot,cnot;
@@ -68,4 +68,4 @@ a=0;b=0;c=0;
 #50 a=1;b=1;c=1;
 end
 endmodule
-
+*/

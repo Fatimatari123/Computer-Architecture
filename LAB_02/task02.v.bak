@@ -41,14 +41,14 @@ wire anot,bnot,cnot;
 assign anot=~a;
 assign bnot=~b;
 assign cnot=~c;
-assign D0=cnot&bnot&anot;
-assign D1=cnot&bnot&a;
-assign D2=cnot&b&anot;
-assign D3=cnot&b&a;
-assign D4=c&bnot&anot;
-assign D5=c&bnot&a;
-assign D6=c&b&anot;
-assign D7=c&b&a;
+assign D0=anot&bnot&cnot;
+assign D1=anot&bnot&c;
+assign D2=anot&b&cnot;
+assign D3=anot&b&c;
+assign D4=a&bnot&cnot;
+assign D5=a&bnot&c;
+assign D6=a&b&cnot;
+assign D7=a&b&c;
 endmodule
 
 module testbench_decoder();
@@ -68,3 +68,4 @@ a=0;b=0;c=0;
 #50 a=1;b=1;c=1;
 end
 endmodule
+
